@@ -1,3 +1,5 @@
 random_forest_model.joblib
 
 svm_model.joblib
+
+logreg_model.joblib
