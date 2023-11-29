@@ -1,0 +1,15 @@
+grape-leaf-disease-detection/rfc/random_forest_model.joblib
+
+grape-leaf-disease-detection/svm/svm_model.joblib
+
+grape-leaf-disease-detection/lrc/logreg_model.joblib
+
+grape-leaf-disease-detection/main/model1.h5
+grape-leaf-disease-detection/main/model2.h5
+grape-leaf-disease-detection/main/model3.h5
+
+cattle_detection/images
+cattle_detection/cattlemodel.h5
+cattle_detection/field.mp4
+cattle_detection/yolov3.cfg
+cattle_detection/yolov3.weights
